@@ -1,4 +1,4 @@
-# Queue-Management
+# Queue-Management Part 2
 
 We continue to develop our Queue management system that we made in the previous module on Sololearn.
 
