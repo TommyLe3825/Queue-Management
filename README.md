@@ -1,6 +1,6 @@
 # Queue-Management
 
-We continue to develop our Queue management system that we made in the previous module.
+We continue to develop our Queue management system that we made in the previous module on Sololearn.
 
 You are asked to add a new functionality: adding two queues together. The result should be a new queue, where the elements of the first queue come first, followed by the second queue's elements.
 
